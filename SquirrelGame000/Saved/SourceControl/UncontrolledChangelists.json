@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/orichmond2/Documents/GitHub/SquirrelGame/SquirrelGame000/Content/Maps/SeanTestMap.umap",
+				"/Users/orichmond2/Documents/GitHub/SquirrelGame/SquirrelGame000/Content/Maps/TestMap.umap",
+				"/Users/orichmond2/Documents/GitHub/SquirrelGame/SquirrelGame000/Content/Blueprints/Actors/BP_LevelEnd.uasset",
 				"C:/UnrealProjects/SquirrelGame000/Content/Maps/TestMap.umap",
 				"C:/UnrealProjects/SquirrelGame000/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset",
 				"C:/UnrealProjects/SquirrelGame000/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
