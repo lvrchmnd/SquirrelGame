@@ -26,9 +26,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "87F1A9057994C9E1D0A36E5E2C614463CC5A925D",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/lambert17"
+			]
+		},
+		{
+			"ShaderMapHash": "519D8408A91EA457E52D3837C98A8A3C6AD7FDD9",
+			"Assets": [
+				"/Game/Assets/Models/Meshes/pinkBarn"
+			]
+		},
+		{
 			"ShaderMapHash": "9BE1D709D26204CC76E0A819FEF68326CE7A038B",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "B9DFFF0C1328D49B98C8C242EDC0F259AD63B4DC",
+			"Assets": [
+				"/Game/StylizedEnvironment/Material/M_BuildMaster"
 			]
 		},
 		{
@@ -38,9 +56,33 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5637200E0A75FE966D038E3923687E617E94F423",
+			"Assets": [
+				"/Game/Assets/Models/red"
+			]
+		},
+		{
+			"ShaderMapHash": "5302340E2A9550AA842BE9DA3EAAB85D00D3C5EC",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/lambert15"
+			]
+		},
+		{
+			"ShaderMapHash": "9FBC7B0ED35F626B98DEF0D9C5017FD181BE8277",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/standardSurface2"
+			]
+		},
+		{
 			"ShaderMapHash": "EEAD3B104A9473585B8F3E1A9B09D465BB51FAFA",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "33755A103FBA9F8C2AFE9A62C5B5D315C2786AE4",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/standardSurface1"
 			]
 		},
 		{
@@ -53,6 +95,12 @@
 			"ShaderMapHash": "E3F642125A067F547D973ADD81F9AEF426F4449F",
 			"Assets": [
 				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialKnob"
+			]
+		},
+		{
+			"ShaderMapHash": "DFB8A712EE7338E6E1FDB8DD4F477EC53C779627",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/lambert16"
 			]
 		},
 		{
@@ -80,6 +128,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D59ED9190EE7E20B6109427759B9F25BE1D9DFE1",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/sunny"
+			]
+		},
+		{
 			"ShaderMapHash": "3878161EA4485439A1ACC2C6E1C9B338AB53D7F7",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend"
@@ -89,6 +143,12 @@
 			"ShaderMapHash": "916C5C1F112A8BC021B38D5FCB559130E3924FA9",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "69D0F81FAFD6AA616C0645D04F455F256B43ACD9",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/standardSurface4"
 			]
 		},
 		{
@@ -104,9 +164,16 @@
 			]
 		},
 		{
+			"ShaderMapHash": "B6FEC520454D9245F5F943C3DCA3C53B93195287",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/mustard2"
+			]
+		},
+		{
 			"ShaderMapHash": "DCD1A22204FAC4CC04639E717ECC670CCA27CF46",
 			"Assets": [
-				"/Game/Assets/Models/Meshes/darkBrown"
+				"/Game/Assets/Models/Meshes/darkBrown",
+				"/Game/Assets/Models/MeshMats/darkBrown"
 			]
 		},
 		{
@@ -116,15 +183,35 @@
 			]
 		},
 		{
+			"ShaderMapHash": "942D8D24774C24D8C8EF2847C4C7A7C151BF8B09",
+			"Assets": [
+				"/Game/Assets/Stylized_Nature_Set/Materials/M_Props_Master"
+			]
+		},
+		{
 			"ShaderMapHash": "926E1927BA0D8BDF38969647EA2F3EB950E28509",
 			"Assets": [
-				"/Game/Assets/Models/lambert5"
+				"/Game/Assets/Models/lambert5",
+				"/Game/Assets/Models/MeshMats/blue01"
 			]
 		},
 		{
 			"ShaderMapHash": "7E689527BB5694AF35E8F4FAB32FA8C4A0C7F004",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "0084BC28A0853F1559092D951F9417B53C246595",
+			"Assets": [
+				"/Game/Assets/deepBrown",
+				"/Game/Assets/Models/MeshMats/deepBrown"
+			]
+		},
+		{
+			"ShaderMapHash": "739FEE29D6BAFCDC03A48729A2EEF6D8903ACD67",
+			"Assets": [
+				"/Game/Movies/MP_Credits_Video_Mat"
 			]
 		},
 		{
@@ -171,6 +258,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D02AA03A838CCD8B55A92698733D7BD57A55183C",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/off_white"
+			]
+		},
+		{
 			"ShaderMapHash": "9E79CD3DA3DB8AFB7F599FA5CE689844A3A190C4",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
@@ -189,6 +282,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F59FA1416DF2D9F66BC1B001F030E9AF7C9956EF",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/standardWarmWhite"
+			]
+		},
+		{
 			"ShaderMapHash": "9AACCD42FD28B73FFAD733ED7CACCED568E53D1E",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend"
@@ -198,6 +297,24 @@
 			"ShaderMapHash": "1335E54304D849A88C10F9B50935D832DA895592",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "2C0C9744B7543866902C073848707D8D3EF7676A",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/windowPane1"
+			]
+		},
+		{
+			"ShaderMapHash": "3CF0C14462A5E1DC1182FB71B6B6926DA69C5680",
+			"Assets": [
+				"/Game/Maps/L_MainLevel"
+			]
+		},
+		{
+			"ShaderMapHash": "EC478445689F6C76CB280180C9E434C496AD1F5B",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/roof1"
 			]
 		},
 		{
@@ -216,6 +333,12 @@
 			"ShaderMapHash": "AE361D4C1ECF114779A9784DE901721DA9F3E458",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "91965C4DAE5B9CCB37CD5E920C65A1A204019558",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/offWhite"
 			]
 		},
 		{
@@ -239,6 +362,7 @@
 		{
 			"ShaderMapHash": "03B78F51BA0A9152AD947553F8FC5C4E75D199E7",
 			"Assets": [
+				"/Game/Maps/L_MainLevel",
 				"/Game/Maps/L_StartMenu"
 			]
 		},
@@ -285,6 +409,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "90ECA25C952FB8B88C9C2080435C9D6ECCF26E23",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/blush"
+			]
+		},
+		{
 			"ShaderMapHash": "0232115D06C45A549313E2EF2E3B0497117DAE5C",
 			"Assets": [
 				"/Paper2D/DefaultSpriteMaterial"
@@ -297,15 +427,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A257BA61F7AE8A3F72DCC39F07479DAB9FA125C6",
+			"ShaderMapHash": "C1973C60879E7CA060F47541AF08D5687A248BBF",
 			"Assets": [
-				"/Engine/EngineMaterials/FlattenMaterial_VT"
+				"/Game/Assets/Models/MeshMats/lambert14"
 			]
 		},
 		{
-			"ShaderMapHash": "214717663469B09E63C5362A7209F0E2DD42F33B",
+			"ShaderMapHash": "A257BA61F7AE8A3F72DCC39F07479DAB9FA125C6",
 			"Assets": [
-				"/Engine/EngineSky/M_SimpleSkyDome"
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
 			]
 		},
 		{
@@ -324,6 +454,31 @@
 			"ShaderMapHash": "D926566979F8A660827B0923771A68B945B11A30",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "FA36786928BD5F66E5D3CCE26074945DC9582B90",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/standardWhite"
+			]
+		},
+		{
+			"ShaderMapHash": "912AAB6CFACF720745E66313EDB8EF32AB7959C2",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/tan",
+				"/Game/Assets/Models/tan"
+			]
+		},
+		{
+			"ShaderMapHash": "5379EC716D27AE8ECF4F01D7B142AD5EE2980A82",
+			"Assets": [
+				"/Game/Assets/Models/metal"
+			]
+		},
+		{
+			"ShaderMapHash": "751513729BC1842DDF1AD02BD369735474A1ACFC",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/door_and_balcony"
 			]
 		},
 		{
@@ -411,6 +566,24 @@
 			]
 		},
 		{
+			"ShaderMapHash": "ED5FBE887BDB7F6D61D37D0B041379E3FBEAFB0C",
+			"Assets": [
+				"/Game/StylizedEnvironment/Material/Material/M_Water"
+			]
+		},
+		{
+			"ShaderMapHash": "D029088A6D4F08F9D7800EB7969255737EF5224A",
+			"Assets": [
+				"/Game/Blueprints/UI/M_Fade2Black"
+			]
+		},
+		{
+			"ShaderMapHash": "448C548A48D8797B449935754264C90280D5343C",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/stoneGrey"
+			]
+		},
+		{
 			"ShaderMapHash": "5B791F8B49276ACC29C7F627C67A3D9BE83B7649",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough",
@@ -442,15 +615,39 @@
 			]
 		},
 		{
+			"ShaderMapHash": "03BCBE95F61BCFFECAFDEADFB2161FAA9FF3ADD9",
+			"Assets": [
+				"/Game/Assets/Materials/M_Skybox"
+			]
+		},
+		{
 			"ShaderMapHash": "D761A29650185FC3DD14DBB457C9A7DC5028C1F3",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
 			]
 		},
 		{
+			"ShaderMapHash": "B237E496860DCAF344B57248AF3891960D5EA0B9",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/cartWood"
+			]
+		},
+		{
 			"ShaderMapHash": "70BE1B97F1045E0BC13E2B5CEA9FFFAFCEFFB096",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "16119499EEC53E8EF9B2F7F682D3CE0C9A4A5086",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/mustard"
+			]
+		},
+		{
+			"ShaderMapHash": "B368EB9918DA91849541929503505FFB3517D20D",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/water1"
 			]
 		},
 		{
@@ -490,6 +687,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "99E712ABAC1B3820D08205F740110C2A02340227",
+			"Assets": [
+				"/Game/Assets/teal"
+			]
+		},
+		{
 			"ShaderMapHash": "0E50C1AB6A71E360AF916D3BE4E63B62C3F4CDDF",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
@@ -504,10 +707,13 @@
 		{
 			"ShaderMapHash": "EBC978AD54C4B343EC24A3B16D7163CED462ED83",
 			"Assets": [
+				"/Game/Assets/Models/lambert1",
 				"/Game/Assets/Models/Meshes/lambert1",
 				"/Game/Assets/Models/Meshes/lambert8",
 				"/Game/Assets/Models/Meshes/M_glass",
-				"/Game/Assets/Models/MeshMats/lambert1"
+				"/Game/Assets/Models/MeshMats/lambert1",
+				"/Game/Assets/Models/MeshMats/white",
+				"/Game/Assets/Models/MeshMats/white2"
 			]
 		},
 		{
@@ -520,6 +726,12 @@
 			"ShaderMapHash": "30F49BAF5733DB34FC3E029E2BBBB4E362A61346",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "825BA9AF2D3A3CD918E7FC01DC6BD4892957C857",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/purple"
 			]
 		},
 		{
@@ -602,9 +814,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7D3ECEBF552CC5A31F96B2A016280C1E9C96A3A3",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/teal"
+			]
+		},
+		{
 			"ShaderMapHash": "D7CC3BC0790FE887512427AE40D1B1417B9EA9B5",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "FE7A76C032F56EF8A7C1B3E698799A87685DFB29",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/mist"
+			]
+		},
+		{
+			"ShaderMapHash": "9272E0C03362041FCE65A20C1CB747CF099DBB4A",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/glass"
 			]
 		},
 		{
@@ -632,6 +862,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "585261C628A070561D613D6292959BEBA148B4F5",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/wood"
+			]
+		},
+		{
 			"ShaderMapHash": "D457C5C631A20D19936BC0ACFD13D97DAC4F17DC",
 			"Assets": [
 				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialMeter"
@@ -644,8 +880,29 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5A4FA0C724BCFEFA994E91CBB3981680FA7C8DDB",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/lambert4"
+			]
+		},
+		{
+			"ShaderMapHash": "184F46CECC13267294C8D3ECE0B0E3E9233BDB16",
+			"Assets": [
+				"/Game/Assets/Models/standardSurface6"
+			]
+		},
+		{
 			"ShaderMapHash": "4E3E73D5D1AD8A318EF3DBFCA497CEDF835FABD1",
 			"Assets": [
+				"/Game/Assets/Characters/Materials/Barb/M_badgerDark",
+				"/Game/Assets/Characters/Materials/Barb/M_badgerLight",
+				"/Game/Assets/Characters/Materials/Barb/M_badgerLight2",
+				"/Game/Assets/Characters/Materials/Barb/M_belt",
+				"/Game/Assets/Characters/Materials/Barb/M_belt1",
+				"/Game/Assets/Characters/Materials/Barb/M_beltBuckle",
+				"/Game/Assets/Characters/Materials/Barb/M_eye",
+				"/Game/Assets/Characters/Materials/Barb/M_eyeGlint",
+				"/Game/Assets/Characters/Materials/Barb/M_hardHat",
 				"/Game/Assets/Characters/Materials/Fig/figEye_shader",
 				"/Game/Assets/Characters/Materials/Fig/figEyeGlint_shader",
 				"/Game/Assets/Characters/Materials/Fig/figLight_shader",
@@ -657,18 +914,45 @@
 				"/Game/Assets/Characters/Materials/Franklin/M_hatStripe",
 				"/Game/Assets/Characters/Materials/Franklin/M_overalls",
 				"/Game/Assets/Characters/Materials/Franklin/M_wheat",
+				"/Game/Assets/Characters/Materials/Grandpa/M_cap",
+				"/Game/Assets/Characters/Materials/Grandpa/M_eye",
+				"/Game/Assets/Characters/Materials/Grandpa/M_eyeGlint",
+				"/Game/Assets/Characters/Materials/Grandpa/M_jacket",
+				"/Game/Assets/Characters/Materials/Grandpa/M_jacketFur",
+				"/Game/Assets/Characters/Materials/Grandpa/M_squirrel",
+				"/Game/Assets/Characters/Materials/Grandpa/M_squirrelLight",
 				"/Game/Assets/Characters/Materials/Lottie/M_boot",
 				"/Game/Assets/Characters/Materials/Lottie/M_bunnyDark",
 				"/Game/Assets/Characters/Materials/Lottie/M_bunnyLight",
 				"/Game/Assets/Characters/Materials/Lottie/M_earring",
 				"/Game/Assets/Characters/Materials/Lottie/M_eye",
-				"/Game/Assets/Characters/Materials/Lottie/M_eyeGlint"
+				"/Game/Assets/Characters/Materials/Lottie/M_eyeGlint",
+				"/Game/Assets/Characters/Materials/Mom/M_eye",
+				"/Game/Assets/Characters/Materials/Mom/M_eyeGlint",
+				"/Game/Assets/Characters/Materials/Mom/M_pearl",
+				"/Game/Assets/Characters/Materials/Mom/M_purse",
+				"/Game/Assets/Characters/Materials/Mom/M_squirrel",
+				"/Game/Assets/Characters/Materials/Mom/M_squirrelLight",
+				"/Game/Assets/Characters/Materials/MrNogal/M_cloth",
+				"/Game/Assets/Characters/Materials/MrNogal/M_eye",
+				"/Game/Assets/Characters/Materials/MrNogal/M_eyeGlint",
+				"/Game/Assets/Characters/Materials/MrNogal/M_squirrelBrown",
+				"/Game/Assets/Characters/Materials/MrNogal/M_squirrelDark",
+				"/Game/Assets/Characters/Materials/MrNogal/M_squirrelGreyLight",
+				"/Game/Assets/Characters/Materials/MrNogal/M_squirrelGreyMiddle"
 			]
 		},
 		{
 			"ShaderMapHash": "004950D682E4C1B9DC537131E5F6B47F7C5CC664",
 			"Assets": [
-				"/Game/Assets/Models/Meshes/lightBrown"
+				"/Game/Assets/Models/Meshes/lightBrown",
+				"/Game/Assets/Models/MeshMats/lightBrown"
+			]
+		},
+		{
+			"ShaderMapHash": "A598B2D79BDADDE8E9530F04E498D445ED5D1537",
+			"Assets": [
+				"/Game/Assets/Materials/M_CelShader"
 			]
 		},
 		{
@@ -680,14 +964,41 @@
 		{
 			"ShaderMapHash": "459FAADB995CCA4C88838842F2C17A93890718CF",
 			"Assets": [
+				"/Game/Assets/Models/lambert4",
 				"/Game/Assets/Models/Meshes/lambert2",
-				"/Game/Assets/Models/Meshes/lambert9"
+				"/Game/Assets/Models/Meshes/lambert9",
+				"/Game/Assets/Models/MeshMats/green",
+				"/Game/Assets/Models/MeshMats/lambert2"
 			]
 		},
 		{
 			"ShaderMapHash": "2853CFDB51ACBECCA123EC31CB06C417A199DDD8",
 			"Assets": [
 				"/Game/Assets/Models/Meshes/lambert6"
+			]
+		},
+		{
+			"ShaderMapHash": "F640EAE201430F19BF9C913B4F4CD14001FC1D3E",
+			"Assets": [
+				"/Game/Assets/Models/pink"
+			]
+		},
+		{
+			"ShaderMapHash": "869199E395EFDA33D1E7756BE5764960C7473962",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/light_green"
+			]
+		},
+		{
+			"ShaderMapHash": "BE5110E665F9A265F97109A951579F3559159B8B",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/siding"
+			]
+		},
+		{
+			"ShaderMapHash": "D07C7EE7A1F71138F93B442B14BE4357B5900155",
+			"Assets": [
+				"/Game/Assets/Materials/guitar/Default_Material"
 			]
 		},
 		{
@@ -709,6 +1020,14 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DDDF38EB1EA89ED6E1F6435DF60E5EB377D6B6C6",
+			"Assets": [
+				"/Game/Assets/Models/black",
+				"/Game/Assets/Models/MeshMats/black",
+				"/Game/Assets/Models/MeshMats/lambert7"
+			]
+		},
+		{
 			"ShaderMapHash": "6B5B2DECE1E9B817E4FC67D2E1F454F0BDE88A50",
 			"Assets": [
 				"/Paper2D/OpaqueUnlitSpriteMaterial"
@@ -721,9 +1040,25 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D423B8ECD15ACDF23A1A8FA7709768BEBA18D4AA",
+			"Assets": [
+				"/Game/StylizedEnvironment/Material/Material/MI_Water_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "17D6DFEDE0039811B1C8FAC7B35A2F083317B1EA",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/pine"
+			]
+		},
+		{
 			"ShaderMapHash": "37AD55EEF62057CFBC6EB79D87E6FF410BFDA7A7",
 			"Assets": [
-				"/Game/Assets/Models/Meshes/lambert3"
+				"/Game/Assets/Models/lambert3",
+				"/Game/Assets/Models/Meshes/lambert3",
+				"/Game/Assets/Models/MeshMats/lambert3",
+				"/Game/Assets/Models/MeshMats/warmWood",
+				"/Game/Assets/Models/warmWood"
 			]
 		},
 		{
@@ -745,9 +1080,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "FC900AF3C4D0EB13A298538DCA2040E7675981EF",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/millStructure"
+			]
+		},
+		{
 			"ShaderMapHash": "6C769FF51965939BB9F06FDD19BAD9C9B6EAE7C6",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E27029F6EC75FB6C2482A07C48C2FDF4AF823709",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/wood02"
 			]
 		},
 		{
@@ -766,6 +1113,12 @@
 			"ShaderMapHash": "FBF7ABFBBB39E89B2E9F6D07C4CC0C82842CC4E3",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "7664B7FCC3D825F316934ACDBE8356C41DD21FD0",
+			"Assets": [
+				"/Game/Assets/Models/MeshMats/deepForest"
 			]
 		},
 		{

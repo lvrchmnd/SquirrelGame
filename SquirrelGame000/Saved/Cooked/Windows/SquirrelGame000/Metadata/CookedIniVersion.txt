@@ -2432,7 +2432,6 @@ ConfigSystem.<Editor>.Engine:DevOptions.Shaders:NumUnusedShaderCompilingThreads:
 ConfigSystem.<Editor>.Engine:DevOptions.Shaders:NumUnusedShaderCompilingThreadsDuringGame:0=4
 ConfigSystem.<Editor>.Engine:DevOptions.Shaders:ProcessGameThreadTargetTime:0=.01
 ConfigSystem.<Editor>.Engine:DevOptions.Shaders:ShaderCompilerCoreCountThreshold:0=12
-ConfigSystem.<Editor>.Engine:DevOptions.Shaders:WorkerProcessPriority:0=-1
 ConfigSystem.<Editor>.Engine:DevOptions.Shaders:WorkerTimeToLive:0=20
 ConfigSystem.<Editor>.Engine:Engine.ErrorHandling:bPromptForRemoteDebugging:0=false
 ConfigSystem.<Editor>.Engine:Engine.ErrorHandling:bPromptForRemoteDebugOnEnsure:0=false
@@ -2858,10 +2857,10 @@ ConfigSystem.<Editor>.Game:/Script/AIModule.EnvQueryManager:MaxAllowedTestingTim
 ConfigSystem.<Editor>.Game:/Script/AIModule.EnvQueryManager:QueryCountWarningInterval:0=30.0
 ConfigSystem.<Editor>.Game:/Script/AIModule.EnvQueryManager:QueryCountWarningThreshold:0=0
 ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:LaunchOnTarget:0=
-ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildConfig:0=(("Windows", PPBC_Shipping))
+ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildConfig:0=()
 ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildTarget:0=()
 ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformTargetFlavorName:0=(("Android", "Android_ASTC"))
-ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="F/schoolProjects/!Squirrel Game/Unreal Project/SquirrelGame")
+ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="F/schoolProjects/!Squirrel Game/Unreal Project/SquirrelGame/Packaged Builds")
 ConfigSystem.<Editor>.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:0=(PrimaryAssetType="Map",AssetBaseClass=/Script/Engine.World,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game/Maps")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=Unknown))
 ConfigSystem.<Editor>.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:1=(PrimaryAssetType="PrimaryAssetLabel",AssetBaseClass=/Script/Engine.PrimaryAssetLabel,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=Unknown))
 ConfigSystem.<Editor>.Game:/Script/Engine.DebugCameraController:bShowSelectedInfo:0=true
@@ -2920,18 +2919,36 @@ ConfigSystem.<Editor>.Game:/Script/EngineSettings.GeneralProjectSettings:Project
 ConfigSystem.<Editor>.Game:/Script/EngineSettings.GeneralProjectSettings:SupportContact:0=
 ConfigSystem.<Editor>.Game:/Script/LiveLink.LiveLinkSettings:DefaultRoleSettings:0=(Role=Class'/Script/LiveLink.LiveLinkAnimationRole', FrameInterpolationProcessor=Class'/Script/LiveLink.LiveLinkAnimationFrameInterpolationProcessor')
 ConfigSystem.<Editor>.Game:/Script/LiveLink.LiveLinkSettings:FrameInterpolationProcessor:0=Class'/Script/LiveLink.LiveLinkBasicFrameInterpolationProcessor'
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:ApplocalPrerequisitesDirectory:0=(Path="")
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bBuildHttpChunkInstallData:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bChunkHardReferencesOnly:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bCompressed:0=True
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookAll:0=False
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookMapsOnly:0=True
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bDeterministicShaderCodeOrder:0=False
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bExcludeMonolithicEngineHeadersInNativizedCode:0=False
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bForceOneChunkPerFile:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bForceUseProjectCompressionFormatIgnoreHardwareOverride:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateNoChunks:0=False
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bIncludeNativizedAssetsInProjectGeneration:0=False
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bMakeBinaryConfig:0=False
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bPackageCompressionEnableDDC:0=False
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bRetainStagedDirectory:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bSharedMaterialNativeLibraries:0=True
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bShareMaterialShaderCode:0=True
-ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipEditorContent:0=false
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipEditorContent:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipMovies:0=False
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bTreatWarningsAsErrorsOnCook:0=False
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bUseIoStore:0=True
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bUseZenStore:0=False
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bWritePluginSizeSummaryJsons:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:CulturesToStage:0=en
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:CustomStageCopyHandler:0=
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:DirectoriesToAlwaysCook:0=(Path="/NNEDenoiser")
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:0=...\Content\Internationalization\...\*.icu
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:1=...\Content\Internationalization\...\*.brk
@@ -2950,8 +2967,13 @@ ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownlo
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:14=...\*.upluginmanifest
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:15=...\*.uproject
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:16=...\global_sf*.metalmap
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=False
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:HttpChunkInstallDataDirectory:0=(Path="")
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:HttpChunkInstallDataVersion:0=
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeAppLocalPrerequisites:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeCrashReporter:0=False
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludePrerequisites:0=True
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyDenylist:0=KeyStorePassword
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:IniKeyDenylist:1=KeyPassword
@@ -2976,6 +2998,12 @@ ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:IniSectionD
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:IniSectionDenylist:1=StorageServers
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:IniSectionDenylist:2=/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:InternationalizationPreset:0=English
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:LocalizationTargetCatchAllChunkId:0=0
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:0=(FilePath="/Game/Maps/L_StartMenu")
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:1=(FilePath="/Game/Maps/L_MainLevel")
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:2=(FilePath="/Game/Maps/L_EndMenu")
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:MaxChunkSize:0=0
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:PackageAdditionalCompressionOptions:0=
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:PackageCompressionFormat:0=Oodle
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:PackageCompressionLevel_DebugDevelopment:0=4
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:PackageCompressionLevel_Distribution:0=7
@@ -2983,6 +3011,7 @@ ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:PackageComp
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:PackageCompressionMethod:0=Kraken
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:PackageCompressionMinBytesSaved:0=1024
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:PackageCompressionMinPercentSaved:0=5
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:PackageCompressionMinSizeToConsiderDDC:0=0
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:WriteBackMetadataToAssetRegistry:0=Disabled
 ConfigSystem.<Editor>.Game:Internationalization:LocalizationPaths:0=%GAMEDIR%Content/Localization/Game
@@ -3824,6 +3853,7 @@ ConfigSystem.Windows.Engine:SystemSettings:r.PSOPrecache.GlobalShaders:0=1
 ConfigSystem.Windows.Engine:SystemSettings:r.setres:0=1280x720
 ConfigSystem.Windows.Engine:SystemSettings:r.VRS.ContrastAdaptiveShading:0=1
 ConfigSystem.Windows.Engine:SystemSettings:r.VRS.EnableSoftware:0=1
+ConfigSystem.Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:MaxChunkSize:0=0
 ConfigSystem.Windows.Scalability:AntiAliasingQuality@3:r.FXAA.Quality:0=4
 ConfigSystem.Windows.Scalability:AntiAliasingQuality@3:r.TemporalAA.Quality:0=2
 ConfigSystem.Windows.Scalability:AntiAliasingQuality@3:r.TSR.History.R11G11B10:0=1
@@ -3979,6 +4009,7 @@ LocalIniFile.Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaul
 LocalIniFile.Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
 LocalIniFile.Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry.Entry
 LocalIniFile.Windows.Engine:Core.System:CanUseUnversionedPropertySerialization:0=True
+LocalIniFile.Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bDeterministicShaderCodeOrder:0=False
 LocalIniFile.Windows.Input:/Script/Engine.InputSettings:DefaultTouchInterface:0=/Engine/MobileResources/HUD/DefaultVirtualJoysticks.DefaultVirtualJoysticks
 LocalSingleIniFile.Android.../../../Engine/Config/Android/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:AutoSDKPath:0=Android
 LocalSingleIniFile.Android.../../../Engine/Config/Android/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:bCanChangeGamepadType:0=true
@@ -4332,7 +4363,7 @@ LocalSingleIniFile.Mac.../../../Engine/Config/Mac/DataDrivenPlatformInfo.ini:Sha
 LocalSingleIniFile.Mac.../../../Engine/Config/Mac/DataDrivenPlatformInfo.ini:ShaderPlatform METAL_SM6:MinimumWaveSize:0=32
 LocalSingleIniFile.Mac.../../../Engine/Config/Mac/DataDrivenPlatformInfo.ini:ShaderPlatform METAL_SM6:ShaderFormat:0=SF_METAL_SM6
 LocalSingleIniFile.Mac.../../../Engine/Config/Mac/DataDrivenPlatformInfo.ini:ShaderPlatform METAL_SM6:SupportsMultiViewport:0=RuntimeGuaranteed
-LocalSingleIniFile.<Editor>.C::::/Users/17974288/AppData/Local/UnrealEngine/5.5/Saved/Config/WindowsEditor/Manifest.ini:Manifest:Version:0=2
+LocalSingleIniFile.<Editor>.C::::/Users/dccar/AppData/Local/UnrealEngine/5.5/Saved/Config/WindowsEditor/Manifest.ini:Manifest:Version:0=2
 LocalSingleIniFile.TVOS.../../../Engine/Config/TVOS/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:AutoSDKPath:0=
 LocalSingleIniFile.TVOS.../../../Engine/Config/TVOS/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:bIsConfidential:0=false
 LocalSingleIniFile.TVOS.../../../Engine/Config/TVOS/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:bUATClosesAfterLaunch:0=true
