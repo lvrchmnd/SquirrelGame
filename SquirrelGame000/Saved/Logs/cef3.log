@@ -1,4 +1,2 @@
-[0423/014034.354:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0423/014233.054:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0423/021724.537:ERROR:dns_config_service.cc(259)] DNS config watch failed.
-[0423/021724.540:ERROR:dns_config_service.cc(259)] DNS config watch failed.
+[0430/145000.059:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0430/145155.680:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

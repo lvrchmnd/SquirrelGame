@@ -1,3 +1,6 @@
-2026/04/01-20:32:53.284 3938 Reusing MANIFEST F:/schoolProjects/!Squirrel Game/Unreal Project/SquirrelGame/SquirrelGame000/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/01-20:32:53.286 3938 Recovering log #3
-2026/04/01-20:32:53.287 3938 Reusing old log F:/schoolProjects/!Squirrel Game/Unreal Project/SquirrelGame/SquirrelGame000/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2026/04/23-01:40:32.649 89b4 Reusing MANIFEST F:/schoolProjects/!Squirrel Game/Unreal Project/SquirrelGame/SquirrelGame000/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/23-01:40:32.651 89b4 Recovering log #3
+2026/04/23-01:40:32.652 89b4 Reusing old log F:/schoolProjects/!Squirrel Game/Unreal Project/SquirrelGame/SquirrelGame000/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2026/04/23-01:44:34.798 16d4 Level-0 table #5: started
+2026/04/23-01:44:34.817 16d4 Level-0 table #5: 80969 bytes OK
+2026/04/23-01:44:34.820 16d4 Delete type=0 #3

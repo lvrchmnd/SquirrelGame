@@ -2432,6 +2432,7 @@ ConfigSystem.<Editor>.Engine:DevOptions.Shaders:NumUnusedShaderCompilingThreads:
 ConfigSystem.<Editor>.Engine:DevOptions.Shaders:NumUnusedShaderCompilingThreadsDuringGame:0=4
 ConfigSystem.<Editor>.Engine:DevOptions.Shaders:ProcessGameThreadTargetTime:0=.01
 ConfigSystem.<Editor>.Engine:DevOptions.Shaders:ShaderCompilerCoreCountThreshold:0=12
+ConfigSystem.<Editor>.Engine:DevOptions.Shaders:WorkerProcessPriority:0=-1
 ConfigSystem.<Editor>.Engine:DevOptions.Shaders:WorkerTimeToLive:0=20
 ConfigSystem.<Editor>.Engine:Engine.ErrorHandling:bPromptForRemoteDebugging:0=false
 ConfigSystem.<Editor>.Engine:Engine.ErrorHandling:bPromptForRemoteDebugOnEnsure:0=false
@@ -4363,7 +4364,7 @@ LocalSingleIniFile.Mac.../../../Engine/Config/Mac/DataDrivenPlatformInfo.ini:Sha
 LocalSingleIniFile.Mac.../../../Engine/Config/Mac/DataDrivenPlatformInfo.ini:ShaderPlatform METAL_SM6:MinimumWaveSize:0=32
 LocalSingleIniFile.Mac.../../../Engine/Config/Mac/DataDrivenPlatformInfo.ini:ShaderPlatform METAL_SM6:ShaderFormat:0=SF_METAL_SM6
 LocalSingleIniFile.Mac.../../../Engine/Config/Mac/DataDrivenPlatformInfo.ini:ShaderPlatform METAL_SM6:SupportsMultiViewport:0=RuntimeGuaranteed
-LocalSingleIniFile.<Editor>.C::::/Users/dccar/AppData/Local/UnrealEngine/5.5/Saved/Config/WindowsEditor/Manifest.ini:Manifest:Version:0=2
+LocalSingleIniFile.<Editor>.C::::/Users/17974288/AppData/Local/UnrealEngine/5.5/Saved/Config/WindowsEditor/Manifest.ini:Manifest:Version:0=2
 LocalSingleIniFile.TVOS.../../../Engine/Config/TVOS/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:AutoSDKPath:0=
 LocalSingleIniFile.TVOS.../../../Engine/Config/TVOS/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:bIsConfidential:0=false
 LocalSingleIniFile.TVOS.../../../Engine/Config/TVOS/DataDrivenPlatformInfo.ini:DataDrivenPlatformInfo:bUATClosesAfterLaunch:0=true
